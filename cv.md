@@ -1,20 +1,22 @@
-* # Danila Master
-+ ## Contact Information:
-- ### Phone: +375(XX)XXXXXX
-- ### Email: xxxxx@Yxxxxx.by
-- ### GitHub: DMDSCRD
+# Danila Master
+ **RS School JS/FE Pre-School 2022Q4 Student**
 ***
-+ ## About:
-- ### This is my first front-end development experience, I would like to learn how to create a useful and promising product
+## Contact Information:
+ **Phone:** +375(XX)XXXXXX
+ **Email:** xxxxx@xxxxx.by
+ **GitHub:** DMDSCRD
 ***
-+ ## Expierence:
-- ### Graphic designer in polygraphy
-- ### Sales manager
-- ### Advertising company owner
+## About:
+ This is my first front-end development experience, I would like to learn how to create a useful and promising product
 ***
-+ ## Languages:
-- ### Russian
-- ### English
-- ### German
+## Expierence:
+ * Graphic designer in polygraphy
+ * Sales manager
+ * Advertising company owner
 ***
-+ ## Code:
+## Languages:
+ * Russian
+ * English
+ * German
+***
+## Code:
