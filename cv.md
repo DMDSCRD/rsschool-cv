@@ -4,7 +4,7 @@
 ## Contact Information:
  - **Phone:** +375(XX)XXXXXX
  - **Email:** xxxxx@xxxxx.by
- - **GitHub:** [https://github.com/DMDSCRD](DMDSCRD)
+ - **GitHub:** [DMDSCRD](https://github.com/DMDSCRD)
 
 ## About:
  This is my first front-end development experience, I would like to learn how to create a useful and promising product
