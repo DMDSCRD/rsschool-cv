@@ -20,3 +20,9 @@
  * German
 
 ## Code:
+```
+function sayName() {
+  let name = prompt("What is your name?", "");
+  alert(name);
+}
+```
