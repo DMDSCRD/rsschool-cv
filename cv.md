@@ -1,4 +1,4 @@
-# Danila Master
+# ![logo](logo.png) Danila Master
  RS School JS/FE Pre-School 2022Q4 Student
 
 ## Contact Information:
