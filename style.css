@@ -61,6 +61,18 @@ section {
     height: 40px;
     background-color: #778899;
 }
+.footer nav {
+    width: 100%;
+}
+.footer ul {
+    width: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+.footer li {
+    list-style-type: none;
+}
 .footer__rsschool img {
     width: 60px;
     height: 20px;
