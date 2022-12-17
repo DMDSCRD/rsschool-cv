@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+.wrapper {
+    max-width: 1200px;
+    width: 80%;
+    margin: 0 auto;
+}
+.header {
+    margin-bottom: 18px;
+}
+.header img {
+    width: 50px;
+    margin: 20px 20px 0;
+}
+header:after {
+    margin-top: 18px;
+    content: '';
+    background-color: #778899;
+    width: 100%;
+    height: 20px;
+    display: block;
+
+  }
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+section {
+    width: 40%;
+}
+.expirience,
+.languages {
+    margin-top: 18px;
+}
+.code {
+    width: 100%;
+    margin-top: 18px;
+}
+.code > div {
+    display: flex;
+    justify-content: center;
+    width: 78%;
+    font-size: 18px;
+}
+.code__title {
+    text-align: center;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40px;
+    background-color: #778899;
+}
+.footer__rsschool img {
+    width: 60px;
+    height: 20px;
+}
+.footer__github {
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
